@@ -1,0 +1,14 @@
+[
+	{
+        "name": "Test SMS",
+        "from-number": "+15005550006",
+        "content": "Example Message"
+        "to_number": "+61400123123"
+    },
+    {
+        "name": "Test SMS Callbacks",
+        "from-number": "+15005550006",
+        "content_callback": "example_callback",
+        "to_number_callback": "to_number_callback"
+    }
+]
